@@ -13,6 +13,7 @@
         <easyb.version>1.4</easyb.version>
         <cobertura.version>2.6</cobertura.version>
         <!-- TODO: A workaround for a bug in PMD JONGUH!!!-->
+		<!-- JENKINSSSZZ -->
         <sourceJdk>1.7</sourceJdk>
         <targetJdk>1.7</targetJdk>
         <github.account>wakaleo</github.account>
