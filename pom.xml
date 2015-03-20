@@ -486,6 +486,7 @@
                                 -enumerations -enumconstants
                             </additionalparam>
                         </configuration>
+						<!-- Test -->
                     </plugin>
                     <plugin>
                         <groupId>org.apache.maven.plugins</groupId>
